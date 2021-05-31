@@ -1,0 +1,1 @@
+Registro|CodCarrera|CodMateria|CodCursoOriginal|CodCursoAlernativo|Fecha

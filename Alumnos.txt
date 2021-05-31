@@ -1,0 +1,17 @@
+Registro|ApellidoNombre|CodCarrera|CondRegular
+873263|Mezzadra, María Paula|1|Si
+892569|Blaustein, Tomas|1|Si
+892843|Camen, Lucas|1|Si
+885843|Corrales Flores, Débora|1|Si
+800000|Pig, Peppa|2|No
+800001|Perez, Pedro|2|Si
+800002|Barchi, Juana|3|Si
+800003|Calens, Mariano|3|No
+800004|Croce, Daniela|4|Si
+800005|Carrera, Analía|4|No
+800006|Rosilo, Milagros|5|Si
+800007|Goitía, Fernanda|5|No
+800008|Bareiro, Gonzalo|6|Si
+800009|Ferraro, Lucas|6|No
+800010|Scarpino, Santiago|1|No
+123123|Cuesta, Martín|1|Si

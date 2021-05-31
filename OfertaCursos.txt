@@ -1,0 +1,166 @@
+CodMateria|CodCurso|NombreMateria|Titular|Docente|Dias|Horario|Sede
+252|1|Administración General|Bonatti, Patricia|Oliverio, Emmannuel|Ma-Vie|17a19|Avellaneda
+252|14|Administración General|Etkin, Jorge Ricardo|Quiroga, Roberto|Lu-Jue|11a13|Paternal
+274|1|Sistemas Administrativos|Gilli, Juan José|Torres, Fernando|Lu-Jue|09a11|Córdoba
+274|2|Sistemas Administrativos|Gómez Fulao, Juan Carlos|Barrientos, Jorge|Ma-Vie|19a21|Córdoba
+279|8|Administración Financiera|Albornoz, César|De Jesús, Mauro|Ma-Vie-Sa|17a19|Códoba
+279|16|Administración Financiera|Fernández, Heriberto|Fernández, Heriberto|Lu-Mie-Jue|07a09|Avellaneda
+453|3|Administración de la Producción|Depto. de Administración|Sánchez, Lorena|Lu-Mie-Jue|17a19|Avellaneda
+453|7|Administración de la Producción|Depto. de Administración|Palazzolo, Agustina|Ma-Vie-Sa|09a11|Córdoba
+454|1|Administración del Personal|Huber, Ladislao|Bianchi, Liliana|Lu-Mie-Jue|07a09|Córdoba
+454|5|Administración del Personal|Mazza, Roberto|Moreno, Claudio|Ma-Vie-Sa|19a21|Córdoba
+456|1|Comercialización|Barmat, Rubén|Erdellan, Claudio|Lu-Mie-Jue|09a11|Córdoba
+456|7|Comercialización|Pogliano, Martín|Baldomar, Juan|Ma-Vie-Sa|07a09|Paternal
+457|2|Teoría de la Decisión|Avenburg, Daniel|Cadaval, Hebe|Lu-Mie-Jue|09a11|Córdoba
+457|4|Teoría de la Decisión|Avenburg, Daniel|Asz, Mariano|Ma-Vie-Sa|07a09|Córdoba
+458|1|Pleaneamiento a Largo Plazo|Cammarota, Estela|Aguirre, David|Lu-Jue|17a19|Córdoba
+458|2|Pleaneamiento a Largo Plazo|Serra, Rafael|Gigante, Vanina|Lu-Jue|17a19|Córdoba
+459|1|Dirección General|Bonatti, Patricia|Brizuela, Lucas|Ma-Mie-Sa|19a21|Córdoba
+459|1|Dirección General|Bonatti, Patricia|Gigante, Vanina|Ma-Mie-Sa|17a19|San Isidro
+460|3|Seminario de Integración y Aplicación|Etkin, Jorge|Zinko, María|Ma|07a09|Córdoba
+460|18|Seminario de Integración y Aplicación|Serra, Rafael|Stivelman, Luciana|Vi|07a09|Córdoba
+710|1|Dinámica Estratégica Operacional|Levy, Alberto|Levy, Alberto|Ma-Vie|19a21|Córdoba
+718|1|Calidad y Productividad|González Escudero, Alejandro|González Escudero, Alejandro|Lu-Jue|17a19|Córdoba
+732|1|Administración de Turismo|Depto de Administración|Miguel de la Cruz, Gastón|Lu-Jue|07a09|Córdoba
+733|1|Emprendedor|Aristizabal, Victor|Aristizabal, Victor|Ma-Vie|21a23|Córdoba
+733|2|Emprendedor|Aristizabal, Victor|Fernández, Pablo|Mie-Sa|11a13|San Isidro
+794|1|Administración Pública|Blutman, Gustavo|Lema, Gonzalo|Ma-Vie|11a13|Córdoba
+247|1|Teoría Contable|Biondi, Mario|Spisso, Claudio|Ma-Mie-Vi|19a21|Avellaneda
+247|2|Teoría Contable|Biondi, Mario|Rodríguez, Gastón|LU-Mie-Jue|17a19|Paternal
+277|1|Gestión y Costos|Beltramo, Gerardo|Center, Alberto|Lu-Mie-Jue|07a09|Córdoba
+277|4|Gestión y Costos|Beltramo, Gerardo|Gonzalez, Alejandro|Lu-Mie-Jue|09a11|Paternal
+351|1|Sistemas Contables|Bursesi, Néstor|Scavone, Graciela|Lu-Mie-Jue|13a15|Córdoba
+351|10|Sistemas Contables|Campo, Ana María|Ale, María|Lu-Mie-Jue|21a23|Córdoba
+353|1|Sistemas de Costos|Beltramo, Gerardo|Zunino, Alejandro|Ma-Vie|19a21|Avellaneda
+353|5|Sistemas de Costos|Ghedin, Sergio|Daian, Isaac|Lu-Jue|07a09|Córdoba
+355|1|Auditoría|Canetti, Miguel|Canetti, Miguel|Lu-Mie-Jue|17a19|Córdoba
+355|5|Auditoría|Gordicz, Juan|Rapisarda, Carlos|Lu-Mie-Jue|21a23|Córdoba
+362|1|Gestión y Costos|Di Stefano, Victorio|Di Stefano, Victorio|Lu-Mie-Jue|17a19|San Isidro
+362|5|Gestión y Costos|Ghedin, Sergio|Daian, Pedro|Lu-Mie-Jue|19a21|Córdoba
+1330|1|Contabilidad Social y Ambiental|Campo, Ana María|Sánchez, Verónica|Ma|19a21|Córdoba
+1330|2|Contabilidad Social y Ambiental|Fronti, Luisa|Scavone, Graciela|Lu|09a11|Córdoba
+1352|1|Contabilidad Financiera|Biondi, Mario|Biondi, Mario|Lu-Mie-Jue|19a21|Avellaneda
+1352|3|Contabilidad Financiera|Bursesi, Nestor|Bursesi, Nestor|Lu-Mie-Jue|07a09|Córdoba
+1358|1|Taller de Actuación Profesional Judicial|Cristobal, Norma|Prebianca, Orlando|Jue|21a23|Córdoba
+1358|6|Taller de Actuación Profesional Judicial|Gacio, Marisa|Aguilar, Carlos|Ma|19a21|Córdoba
+1361|1|Taller de Actuación Profesional en Org.|Buresi, Nestor|Di Sibio, Francisco|Ju|09a11|Córdoba
+1361|9|Taller de Actuación Profesional en Org.|Cristobal, Norma|Braidot, Adriana|Ju|11a13|Córdoba
+1374|1|Contabilidad Gubernamental y Control de Gestión|Gusti, José|Alessandro, Carolina|Lu-Jue|09a11|Córdoba
+1374|1|Contabilidad Gubernamental y Control de Gestión|Gusti, José|Harbin, Abelardo|Ma-Vie|19a21|Córdoba
+251|1|Instituciones de Derecho Público|Carnota, Walter|Mallo, Carlos|Lu-Jue|19a21|Avellaneda
+251|21|Instituciones de Derecho Público|Carnota, Walter|Rama, Marcela|Lu-Jue|17a19|Paternal
+273|1|Instituciones de Derecho Privado|Salvochea, Carlos|Sal, Sebastián|Ma-Vie|07a09|Córdoba
+273|24|Instituciones de Derecho Privado|Salvochea, Carlos|Irigoyen, Horacio|Lu-Jue|17a19|Córdoba
+354|1|Derecho del Trabajo y la Seguridad Social|Maza, Miguel|Garberi, Cecilia|Ma-Vie|15a17|Avellaneda
+354|18|Derecho del Trabajo y la Seguridad Social|Sardegna, Paula|Seinhart, Jorge|Lu-Jue|11a13|Córdoba
+1359|1|Derecho Económico|López del Carril, Gonzalo|Mosquera, María|Lu-Jue|07a09|Avellaneda
+1359|8|Derecho Económico|Lovece, Graciela|Acebal, Marcela|Lu-Jue|09a11|Córdoba
+1360|1|Derecho Crediticio, Bursátil e Insolvencia|Favier Dubois, Eduardo|Monti, Néstor|Lu-Jue|07a09|Córdoba
+1360|21|Derecho Crediticio, Bursátil e Insolvencia|FScioli, Jorge|Perillo, Fernando|Ma-Vie|19a21|Córdoba
+1603|1|Derecho Informático I|López del Carril, Gonzalo|Elias, Miguel|Ma-Vie|07a09|Córdoba
+1603|2|Derecho Informático I|López del Carril, Gonzalo|Elias, Miguel|Ma-Vie|17a19|Córdoba
+1604|1|Derecho Informático II|López del Carril, Gonzalo|Navarro, Guillermo|Lu-Mie-Jue|09a11|Córdoba
+1604|2|Derecho Informático II|López del Carril, Gonzalo|Varennes, Flavio|Lu-Mie-Jue|17a19|Córdoba
+250|1|Microeconomía I|Apella, Ignacio|Iacobuzio, Antonio|Lu-Jue|07a09|Avellaneda
+250|11|Microeconomía I|Di Pelino, Andrés|Ramirez, Walter|Ma-Vie|07a09|Paternal
+262|3|Macroeconomía|Kacef, Osvaldo|Tubio, Eleonora|Lu-Mie-Jue|09a11|Paternal
+262|7|Macroeconomía|Kacef, Osvaldo|Bernat, Gonzalo|Ma-Mie-Vie|09a11|San Isidro
+278|1|Macroeconomía y Política Económica|Barreña, Mariana|Couto, Luis|Lu-Mie-Jue|09a11|Córdoba
+278|9|Macroeconomía y Política Económica|Barreña, Mariana|Farina, Joaquín|Lu-Mie-Jue|21a23|Córdoba
+283|1|Macroeconomía II|Fanelli, José|Fanelli, José|Ma-Vie-Sa|17a19|Córdoba
+283|5|Macroeconomía II|Heymann, Carlos|Heymann, Carlos|Lu-Mie-Jue|09a11|Córdoba
+286|1|Microeconomía II|Rossi, Martín|Aromi, José|Lu-Mie-Jue|11a13|Córdoba
+286|2|Microeconomía II|Rossi, Martín|Acosta Jorge|Ma-Vie-Sa|19a21|Córdoba
+287|1|Geografía Económica|Depto. de Economía|Abriata, Bruno|Mie|09a11|Córdoba
+287|2|Geografía Económica|Liberali, Ana María|Acha, Patricia|Mie|17a19|Córdoba
+289|1|Epistemología de la Economía|Weisman, Diego|Ruggeri, César|Ju|09a11|Córdoba
+289|2|Epistemología de la Economía|Weisman, Diego|Maceri, Sandra|Mie|11a13|Córdoba
+290|1|Microeconomía I|Petrecolla, Diego|Petrecolla, Diego|Lu-Mie-Jue|09a11|Córdoba
+290|2|Microeconomía I|Petrecolla, Diego|Pascuini, Paulo|Ma-Vie-Sa|09a11|Córdoba
+552|1|Dinero, Crédito y Bancos|Katz, Sebastián|Lorenzo, Guido|Lu-Mie-Jue|07a09|Córdoba
+552|2|Dinero, Crédito y Bancos|Katz, Sebastián|Gómez, Juan|Lu-Mie-Jue|09a11|Córdoba
+553|1|Historia del Pensamiento Económico|Haberfeld, Leandro|Krause, Martín|Lu-Jue|07a09|Córdoba
+553|2|Historia del Pensamiento Económico|Haberfeld, Leandro|Sember, Florencia|Lu-Jue|09a11|Córdoba
+554|1|Crecimiento Económico|Keifman, Saul|Keifman, Saul|Lu-Mie-Jue|09a11|Córdoba
+554|2|Crecimiento Económico|Keifman, Saul|Trupkin, Danilo|Lu-Mie-Jue|17a19|Córdoba
+555|1|Organización Industrial|Maceira, Daniel|Arza, Valeria|Lu-Jue|09a11|Córdoba
+555|3|Organización Industrial|Navajas, Fernando|Kulesz, Micaela|Lu-Jue|09a11|Córdoba
+556|1|Finanzas Públicas|Cetrangolo, Oscar|Rotsztein, Ricardo|Lu-Jue|09a11|Córdoba
+556|2|Finanzas Públicas|Cetrangolo, Oscar|Costa, Augusto|Lu-Jue|09a11|Córdoba
+557|1|Estructura Social Argentina|Depto. de Economía|Vazquez, Juan|Mie|09a11|Córdoba
+557|2|Estructura Social Argentina|Depto. de Economía|Fernandez, Ana|Vie|11a13|Córdoba
+558|1|Economía Internacional|Depto. de Economía|Molinari, Andrea|Lu-Jue|09a11|Córdoba
+558|3|Economía Internacional|Depto. de Economía|Soltz, Hernan|Lu-Jue|19a21|Córdoba
+559|1|Desarrollo Económico|López, Andrés|Ronconi, Lucas|Lu-Jue|09a11|Córdoba
+559|2|Desarrollo Económico|López, Andrés|Alzua, María|Lu-Jue|11a13|Córdoba
+560|1|Estructura Económica Argentina|Ramos, Adrían|Kulfas, Matías|Lu|09a11|Córdoba
+560|2|Estructura Económica Argentina|Ramos, Adrían|Bisang, Roberto|Lu|17a19|Córdoba
+561|1|Cuentas Nacionales|Depto. de Economía|Cavallari, Silvana|Lu-Mie-Jue|09a11|Córdoba
+561|3|Cuentas Nacionales|Propatto, Juan Carlos|Perez, Guadalupe|Lu-Mie-Jue|09a11|Córdoba
+562|1|Seminario de Integración y Aplicación|Director de Carrera|Ruggeri, César|Jue|07a09|Córdoba
+562|2|Seminario de Integración y Aplicación|Director de Carrera|Fernandez, Ana|Jue|09a11|Córdoba
+249|1|Historia Económica y Social Argentina|Belini, Claudio|Colombo, Edgardo|Lu-Jue|19a21|Paternal
+249|2|Historia Económica y Social Argentina|Belini, Claudio|Belini, Claudio|Ma-Vie|09a11|Paternal
+261|1|Teoría Política y Derecho Público|Estevez, Alejandro|Lozada, Pablo|Lu-Jue|19a21|Avellaneda
+261|2|Teoría Política y Derecho Público|Estevez, Alejandro|Campos, Maximiliano|Ma-Vie|09a11|Paternal
+452|1|Sociología de la Organización|Fassio, Adriana|Alvarez, Fernando|Ma-Vie|19a21|Córdoba
+452|2|Sociología de la Organización|Fassio, Adriana|Wagener, Marina|Ma-Vie|21a23|Córdoba
+651|1|Lógica|Legris, Javier|Spehrs, Adriana|Ma-Vie|09a11|Córdoba
+651|2|Lógica|Legris, Javier|Legris, Javier|Ma-Vie|13a15|Córdoba
+248|1|Estadística|Bianco, María José|Llamas, Juana|Lu-Mie-Jue|07a09|Córdoba
+248|2|Estadística|Bianco, María José|Nogues, César Ramón|Lu-Mie-Jue|09a11|Córdoba
+276|1|Cálculo Financiero|Melinsky, Eduardo|Mas, Ariel|Ma-Vie|07a09|Córdoba
+276|2|Cálculo Financiero|Melinsky, Eduardo|Sciaccaluga, Cristian|Ma-Vie|09a11|Córdoba
+284|1|Análisis Matemático II|Bianco, María José|Parma, Andrea|Lu-Mie-Jue|07a09|Córdoba
+284|2|Análisis Matemático II|Bianco, María José|Fernandez, Maria Jose|Lu-Mie-Jue|09a11|Córdoba
+285|1|Estadística II|Vitale, Blanca|Cordoba, Miguel|Lu-Mie-Jue|07a09|Córdoba
+285|2|Estadística II|Vitale, Blanca|Vietri, Silvia|Lu-Mie-Jue|09a11|Córdoba
+288|1|Matemática para Economistas|Casparri, María Teresa|Casparri, María Teresa|Lu-Mie-Jue|09a11|Córdoba
+288|2|Matemática para Economistas|Garcia Fronti, Javier|Garcia Fronti, Javier|Lu-Mie-Jue|07a09|Córdoba
+451|1|Estadística para Administradores|Vitale, Blanca|Girimonte, Patricia|Lu-Jue|07a09|Córdoba
+451|2|Estadística para Administradores|Vitale, Blanca|Cantoni Rabolini, Nelida|Ma-Vie|13a15|Córdoba
+551|1|Econometría|Brufman, Juana|Brufman, Juana|Lu-Mie-Jue|09a11|Córdoba
+551|2|Econometría|Gonzalez, Mirta|Gonzalez, Mirta|Lu-Mie-Jue|07a09|Córdoba
+751|1|Estadística Actuarial|Landro, Alberto|Landro, Alberto|Lu-Mie-Jue|07a09|Córdoba
+751|2|Estadística Actuarial|Metelli, María|Nasif, Alejandro|Lu-Mie-Jue|11a13|Córdoba
+752|1|Análisis Numérico|García, Javier|Caviezel, Pablo|Ma-Vie|07a09|Córdoba
+752|2|Análisis Numérico|García, Javier|Fabris, Julio|Lu-Mie|15a17|Córdoba
+753|1|Biometría Actuarial|Sarto, Daniel|Sarto, Daniel|Lu-Mie-Jue|09a11|Córdoba
+753|2|Biometría Actuarial|Sarto, Daniel|Caviezel, Pablo|Ma-Vie-Sa|09a11|Córdoba
+754|1|Teoría Actuarial de los Seguros Personales|Metelli, Maria Alejandra|Fernandez, Viviana|Lu-Mie-Jue|17a19|Córdoba
+754|1|Teoría Actuarial de los Seguros Personales|Metelli, Maria Alejandra|Mutchinick, Paula|Ma-Vie-Sa|17a19|Córdoba
+755|1|Teoría Actuarial de los Seguros Patrimoniales|Metelli, Maria Alejandra|Sciaccaluga, Cristian|Ma-Vie-Sa|07a09|Córdoba
+755|2|Teoría Actuarial de los Seguros Patrimoniales|Metelli, Maria Alejandra|Fulanito, de Tal|Ma-Vie-Sa|17a19|Córdoba
+756|1|Teoría Actuarial de los Fondos y Planes de Jubilaciones, Pensiones y Salud|Perez, Raffo Hernan|Perez, Raffo Hernan|Lu-Mie-Jue|07a09|Córdoba
+756|2|Teoría Actuarial de los Fondos y Planes de Jubilaciones, Pensiones y Salud|Perez, Raffo Hernan|Liso, Hector|Ma-Vie-Sa|09a11|Córdoba
+757|1|Teoría de Equilibrio Actuarial|Melinsky, Eduardo|Melinsky, Eduardo|Lu-Mie-Jue|07a09|Córdoba
+757|2|Teoría de Equilibrio Actuarial|Melinsky, Eduardo|Berinstein, Leonardo|Ma-Vie-Sa|09a11|Córdoba
+758|2|Bases Actuariales de las Inversiones y Financiaciones|Perez Raffo, Hernan|Serenelli, Gustavo|Ma-Vie|07a09|Córdoba
+759|1|Seminario de Integración y Aplicación|Melinsky, Eduardo|Melinsky, Eduardo|Lu|09a11|Córdoba
+759|2|Seminario de Integración y Aplicación|Melinsky, Eduardo|Grinbalt, Gustavo|Ma|19a21|Córdoba
+275|1|Tecnología de la Información|Rota, Pablo|Martini, Fernando|Lu-Mie-Jue|21a23|Avellaneda
+275|2|Tecnología de la Información|Rota, Pablo|Cardacci, Dario|Lu-Mie-Jue|09a11|Córdoba
+655|1|Teconología de las Comunicaciones|Depto. de Sistemas|Crotti, Patricia|Ma-Vie|17a19|Córdoba
+655|2|Teconología de las Comunicaciones|Depto. de Sistemas|Cavalli, Olga|Ma-Vie|19a21|Córdoba
+657|1|Sistemas de Datos|Chinkes, Ernesto|Fernandez Blanco, María Laura|Ma-Vie|07a09|Córdoba
+657|2|Sistemas de Datos|Chinkes, Ernesto|Schneider, Gustavo|Ma-Vie|19a21|Córdoba
+658|1|Metodología de los Sistemas de Información|Freijedo, Claudio|Carralbal, Diego|Lu-Mie-Jue|07a09|Córdoba
+658|2|Metodología de los Sistemas de Información|Freijedo, Claudio|Bucceri, María Gabriela|Lu-Mie-Jue|19a21|Córdoba
+740|1|Redes Informáticas|Chaina, Virginia|Iuorio, Vicente|Ma-Vie|07a09|Córdoba
+740|2|Redes Informáticas|Chaina, Virginia|Villa, Juan Pablo|Lu-Jue|19a21|Córdoba
+1275|1|Introducción a la Tecnología de la Información y las Comunicaciones|Oriolo, María Cecilia|Grin, Germán|Lu-Jue|19a21|Avellaneda
+1275|2|Introducción a la Tecnología de la Información y las Comunicaciones|Oriolo, María Cecilia|Oriolo, María Cecilia|Lu-Jue|07a09|Paternal
+1601|1|Ingeniería del Software|Briano, César Ariel|Briano, César Ariel|Ma-Vie|07a09|Córdoba
+1601|2|Ingeniería del Software|Briano, César Ariel|Veriansky, Víctor Gustavo|Ma-Vie|19a21|Córdoba
+1652|1|Teoría de los Lenguajes y Algoritmos|Veriansky, Víctor Gustavo|Allocati, Héctor|Lu-Jue|07a09|Córdoba
+1652|2|Teoría de los Lenguajes y Algoritmos|Veriansky, Víctor Gustavo|Veriansky, Víctor Gustavo|Lu-Jue|19a21|Córdoba
+1653|1|Tecnología de los Computadores y Sistemas Operativos|Depto. de Sistemas|Martinez, Miguel|Lu-Mie-Jue|07a09|Córdoba
+1653|2|Tecnología de los Computadores y Sistemas Operativos|Depto. de Sistemas|Fuchs, Jorge|Lu-Mie-Jue|19a21|Córdoba
+1654|1|Construcción de Aplicaciones Informáticas|Bertagnoli, Patricia|Mendez Cerezuela, Alejandro|Lu-Jue|19a21|Córdoba
+1654|2|Construcción de Aplicaciones Informáticas|Bertagnoli, Patricia|Bertagnoli, Patricia|Ma-Vie|21a23|Córdoba
+1659|1|Auditoría y Seguridad de los Sistemas de Información|Morteo, Francisco|Marra, Gastón|Lu-Mie-Jue|07a09|Córdoba
+1659|2|Auditoría y Seguridad de los Sistemas de Información|Morteo, Francisco|Morteo, Francisco|Lu-Mie-Jue|19a21|Córdoba
+1660|1|Actuación Profesional del Licenciado en Sistemas de las Organizaciones|Piorun, Juan|Duarte, Iván|Ma-Vie|19a21|Córdoba
+1660|2|Actuación Profesional del Licenciado en Sistemas de las Organizaciones|Piorun, Juan|Michalla, Bárbara|Lu-Jue|21a23|Córdoba
+1799|1|Gestión de Recursos Informáticos|Freijedo, Claudio|Freijedo, Claudio|Ma-Vie|07a09|Córdoba
+1799|2|Gestión de Recursos Informáticos|Freijedo, Claudio|Yudowsky, Carla|Lu-Jue|19a21|Córdoba
