@@ -15,3 +15,5 @@ Registro|ApellidoNombre|CodCarrera|CondRegular
 800009|Ferraro, Lucas|6|No
 800010|Scarpino, Santiago|1|No
 123123|Cuesta, Martín|1|Si
+111222|Canellada, Micaela|1|Si
+123456|Mella, Patricio|1|Si
