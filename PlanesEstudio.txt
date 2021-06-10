@@ -1,0 +1,190 @@
+CodCarrera|Carrera|CodMateria|Materia
+1|Sistemas|241|Análisis Matemático
+1|Sistemas|242|Economía
+1|Sistemas|243|Sociología
+1|Sistemas|244|Metodología de las Ciencias Sociales
+1|Sistemas|245|Álgebra
+1|Sistemas|246|Historia Económica y Social General
+1|Sistemas|247|Teoría Contable
+1|Sistemas|248|Estadística
+1|Sistemas|249|Historia Económica y Social Argentina
+1|Sistemas|250|Microeconomía
+1|Sistemas|252|Administración General
+1|Sistemas|1275|Introducción a la Tecnología de la Información y las Comunicaciones
+1|Sistemas|274|Sistemas Administrativos
+1|Sistemas|276|Cálculo Financiero
+1|Sistemas|277|Gestión y Costos
+1|Sistemas|278|Macroeconomía y Política Económica
+1|Sistemas|279|Administración Financiera
+1|Sistemas|452|Sociología de la Organización
+1|Sistemas|457|Teoría de la Decisión
+1|Sistemas|651|Lógica
+1|Sistemas|655|Tecnología de las Comunicaciones
+1|Sistemas|657|Sistemas de Datos
+1|Sistemas|658|Metodología de los Sistemas de Información
+1|Sistemas|740|Redes Informáticas
+1|Sistemas|1601|Ingeniería en Software
+1|Sistemas|1603|Derecho Informático I
+1|Sistemas|1604|Derecho Informático II
+1|Sistemas|1652|Teoría de los Lenguajes y Algoritmos
+1|Sistemas|1653|Tecnología de los Computadores y Sistemas Operativos
+1|Sistemas|1654|Construcción de Aplicaciones Informáticas
+1|Sistemas|1659|Auditoría y Seguridad de los Sistemas de Información
+1|Sistemas|1660|Actuación Profesional del Licenciado en Sistemas de las Organizaciones
+1|Sistemas|1799|Gestión de Recursos Informáticos
+2|Contador|241|Análisis Matemático I
+2|Contador|242|Economía 
+2|Contador|243|Sociología 
+2|Contador|244|Metodología de las Ciencias Sociales
+2|Contador|245|Álgebra
+2|Contador|246|Historia Económica y Social General
+2|Contador|247|Teoría Contable
+2|Contador|248|Estadística I
+2|Contador|249|Historia Económica y Social Argentina
+2|Contador|250|Microeconomía I
+2|Contador|251|Instituciones de Derecho Público
+2|Contador|252|Administración General
+2|Contador|273|Instituciones de Derecho Privado
+2|Contador|274|Sistemas Administrativos
+2|Contador|275|Tecnología de la Información
+2|Contador|276|Cálculo Financiero
+2|Contador|278|Macroeconomía y Política Económica
+2|Contador|279|Administración Financiera
+2|Contador|351|Sistemas Contables
+2|Contador|353|Sistemas de Costos
+2|Contador|354|Derecho del Trabajo y la Seguridad Social
+2|Contador|355|Auditoría
+2|Contador|356|Teoría y Técnica Impositiva I
+2|Contador|357|Teoría y Técnica Impositiva II
+2|Contador|362|Gestión y Costos para Contadores
+2|Contador|1330|Contabilidad Social y Ambiental
+2|Contador|1352|Contabilidad Financiera
+2|Contador|1359|Derecho Económico
+2|Contador|1360|Derecho Crediticio, Bursátil e Insolvencia
+2|Contador|1374|Contabilidad Gubernamental y Control de Gestión
+2|Contador|1358|Taller de Actuación Profesional Judicial
+2|Contador|1361|Taller de Práctica Profesional en Organizaciones
+3|Administración|241|Análisis Matemático I
+3|Administración|242|Economía 
+3|Administración|243|Sociología 
+3|Administración|244|Metodología de las Ciencias Sociales
+3|Administración|245|Álgebra
+3|Administración|246|Historia Económica y Social General
+3|Administración|247|Teoría Contable
+3|Administración|248|Estadística I
+3|Administración|249|Historia Económica y Social Argentina
+3|Administración|250|Microeconomía I
+3|Administración|251|Instituciones de Derecho Público
+3|Administración|252|Administración General
+3|Administración|273|Instituciones de Derecho Privado
+3|Administración|274|Sistemas Administrativos
+3|Administración|275|Tecnología de la Información
+3|Administración|276|Cálculo Financiero
+3|Administración|277|Gestión y Costos
+3|Administración|278|Macroeconomía y Política Económica
+3|Administración|279|Administración Financiera
+3|Administración|451|Estadística para Administradores
+3|Administración|452|Sociología de la Organización
+3|Administración|453|Administración de la Producción
+3|Administración|454|Administración del Personal
+3|Administración|455|Régimen Tributario
+3|Administración|456|Comercialización
+3|Administración|457|Teoría de la Decisión
+3|Administración|458|Planeamiento a Largo Plazo
+3|Administración|459|Dirección General
+3|Administración|460|Seminario de Integración y Aplicación
+4|Economía|241|Análisis Matemático I
+4|Economía|242|Economía 
+4|Economía|243|Sociología 
+4|Economía|244|Metodología de las Ciencias Sociales
+4|Economía|245|Álgebra
+4|Economía|246|Historia Económica y Social General
+4|Economía|247|Teoría Contable
+4|Economía|248|Estadística I
+4|Economía|249|Historia Económica y Social Argentina
+4|Economía|261|Teoría Política y Derecho Público
+4|Economía|262|Macroeconomía I
+4|Economía|284|Análisis Matemático II
+4|Economía|283|Macroeconomía II
+4|Economía|285|Estadística II
+4|Economía|286|Microeconomía II
+4|Economía|287|Geografía Económica
+4|Economía|288|Matemática para Economistas
+4|Economía|289|Epistemología de la Economía
+4|Economía|290|Microeconomía I (para Economistas)
+4|Economía|551|Econometría
+4|Economía|552|Dinero, Crédito y Bancos
+4|Economía|553|Historia del Pensamiento Económico
+4|Economía|554|Crecimiento Económico
+4|Economía|555|Organización Industrial
+4|Economía|556|Finanzas Públicas
+4|Economía|557|Estructura Social Argentina
+4|Economía|558|Economía Internacional
+4|Economía|559|Desarrollo Económico
+4|Economía|560|Estructura Económica Argentina
+4|Economía|561|Cuentas Nacionales
+4|Economía|562|Seminario de Integración y Aplicación
+5|Actuario-Admin.|241|Análisis Matemático I
+5|Actuario-Admin.|242|Economía 
+5|Actuario-Admin.|243|Sociología 
+5|Actuario-Admin.|244|Metodología de las Ciencias Sociales
+5|Actuario-Admin.|245|Álgebra
+5|Actuario-Admin.|246|Historia Económica y Social General
+5|Actuario-Admin.|247|Teoría Contable
+5|Actuario-Admin.|248|Estadística I
+5|Actuario-Admin.|249|Historia Económica y Social Argentina
+5|Actuario-Admin.|250|Microeconomía I
+5|Actuario-Admin.|251|Instituciones de Derecho Público
+5|Actuario-Admin.|252|Administración General
+5|Actuario-Admin.|273|Instituciones de Derecho Privado
+5|Actuario-Admin.|274|Sistemas Administrativos
+5|Actuario-Admin.|275|Tecnología de la Información
+5|Actuario-Admin.|276|Cálculo Financiero
+5|Actuario-Admin.|277|Gestión y Costos
+5|Actuario-Admin.|278|Macroeconomía y Política Económica
+5|Actuario-Admin.|279|Administración Financiera
+5|Actuario-Admin.|284|Análisis Matemático II
+5|Actuario-Admin.|285|Estadística II
+5|Actuario-Admin.|288|Matemática para Economistas
+5|Actuario-Admin.|552|Dinero, Crédito y Bancos
+5|Actuario-Admin.|751|Estadística Actuarial
+5|Actuario-Admin.|752|Análisis Numérico
+5|Actuario-Admin.|753|Biometría Actuarial
+5|Actuario-Admin.|754|Teoría Actuarial de los Seguros Personales
+5|Actuario-Admin.|755|Teoría Actuarial de los Seguros Patrimoniales
+5|Actuario-Admin.|756|Teoría Actuarial de los Fondos y Planes de Jubilaciones, Pensiones y Salud
+5|Actuario-Admin.|757|Teoría de Equilibrio Actuarial
+5|Actuario-Admin.|758|Bases Actuariales de las Inversiones y Financiaciones
+5|Actuario-Admin.|759|Seminario de Integración y Aplicación
+6|Actuario-Econ.|241|Análisis Matemático I
+6|Actuario-Econ.|242|Economía 
+6|Actuario-Econ.|243|Sociología 
+6|Actuario-Econ.|244|Metodología de las Ciencias Sociales
+6|Actuario-Econ.|245|Álgebra
+6|Actuario-Econ.|246|Historia Económica y Social General
+6|Actuario-Econ.|247|Teoría Contable
+6|Actuario-Econ.|248|Estadística I
+6|Actuario-Econ.|249|Historia Económica y Social Argentina
+6|Actuario-Econ.|261|Teoría Política y Derecho Público
+6|Actuario-Econ.|262|Macroeconomía I
+6|Actuario-Econ.|284|Análisis Matemático II
+6|Actuario-Econ.|273|Instituciones del Derecho Privado
+6|Actuario-Econ.|276|Cálculo Financiero
+6|Actuario-Econ.|279|Administración Financiera
+6|Actuario-Econ.|283|Macroeconomía II
+6|Actuario-Econ.|285|Estadística II
+6|Actuario-Econ.|286|Microeconomía II
+6|Actuario-Econ.|287|Geografía Económica
+6|Actuario-Econ.|288|Matemática para Economistas
+6|Actuario-Econ.|289|Epistemología de la Economía
+6|Actuario-Econ.|290|Microeconomía I (para Economistas)
+6|Actuario-Econ.|552|Dinero, Crédito y Bancos
+6|Actuario-Econ.|751|Estadística Actuarial
+6|Actuario-Econ.|752|Análisis Numérico
+6|Actuario-Econ.|753|Biometría Actuarial
+6|Actuario-Econ.|754|Teoría Actuarial de los Seguros Personales
+6|Actuario-Econ.|755|Teoría Actuarial de los Seguros Patrimoniales
+6|Actuario-Econ.|756|Teoría Actuarial de los Fondos y Planes de Jubilaciones, Pensiones y Salud
+6|Actuario-Econ.|757|Teoría de Equilibrio Actuarial
+6|Actuario-Econ.|758|Bases Actuariales de las Inversiones y Financiaciones
+6|Actuario-Econ.|759|Seminario de Integración y Aplicación
