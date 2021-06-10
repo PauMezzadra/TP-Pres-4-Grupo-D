@@ -129,9 +129,20 @@ namespace TP_Pres_4_Grupo_D
                                             LimpiarListas();
                                             ArmarListadoMaterias(carrera, registro);
                                             IngresoInscripcionUltimasCuatro(planAlumno, carrera, registro);
-
-                                            if (i < 3)
+                                            if (ConfirmarSolicitud())
                                             {
+                                                if (i < 3)
+                                                {
+                                                    continuar = Validaciones.PedirSoN("\nDesea continuar inscribiéndose en otra materia? 'S / N' ");
+                                                    if (continuar == "N")
+                                                    {
+                                                        i = 4;
+                                                    }
+                                                }
+                                            }
+                                            else
+                                            {
+                                                i--;
                                                 continuar = Validaciones.PedirSoN("\nDesea continuar inscribiéndose en otra materia? 'S / N' ");
                                                 if (continuar == "N")
                                                 {
@@ -139,7 +150,10 @@ namespace TP_Pres_4_Grupo_D
                                                 }
                                             }
                                         }
-                                        GrabarSolicitud();
+                                        if (nuevaSolicitud.Count > 0)
+                                        {
+                                            GrabarSolicitud();
+                                        }
                                     }
 
                                 }
@@ -149,8 +163,20 @@ namespace TP_Pres_4_Grupo_D
                                     {
                                         LimpiarListas();
                                         IngresoInscripcion();
-                                        if (i < 2)
+                                        if (ConfirmarSolicitud())
                                         {
+                                            if (i < 2)
+                                            {
+                                                continuar = Validaciones.PedirSoN("\nDesea continuar inscribiéndose en otra materia? 'S / N' ");
+                                                if (continuar == "N")
+                                                {
+                                                    i = 3;
+                                                }
+                                            }
+                                        }
+                                        else
+                                        {
+                                            i--;
                                             continuar = Validaciones.PedirSoN("\nDesea continuar inscribiéndose en otra materia? 'S / N' ");
                                             if (continuar == "N")
                                             {
@@ -158,8 +184,10 @@ namespace TP_Pres_4_Grupo_D
                                             }
                                         }
                                     }
-                                    GrabarSolicitud();
-
+                                    if(nuevaSolicitud.Count > 0)
+                                    {
+                                        GrabarSolicitud();
+                                    }
                                 }
                             }
                         }
@@ -271,7 +299,6 @@ namespace TP_Pres_4_Grupo_D
             ListarCursos(codMateria, cursoOriginal);
             Console.WriteLine("\nSu elección de curso ALTERNATIVO es:\n");
             ListarCursos(codMateria, cursoAlternativo);
-            ConfirmarSolicitud();
         }
 
         public void IngresoInscripcionUltimasCuatro(List<PlanesEstudio> planAlumno, int carrera, int registro)
@@ -303,7 +330,6 @@ namespace TP_Pres_4_Grupo_D
             ListarCursos(codMateria, cursoOriginal);
             Console.WriteLine("\nSu elección de curso ALTERNATIVO es:\n");
             ListarCursos(codMateria, cursoAlternativo);
-            ConfirmarSolicitud();
         }
 
         private void ArmarListadoMaterias(int carrera, int registro)
@@ -506,19 +532,23 @@ namespace TP_Pres_4_Grupo_D
             return estaSolicitud;
         }
 
-        public void ConfirmarSolicitud()
+        public bool ConfirmarSolicitud()
         {
             string opcion;
+            bool confirma = false;
             opcion = Validaciones.PedirSoN("\nConfirma la selección? 'S / N'\n");
             if (opcion == "N")
             {
                 LimpiarListas();
                 Console.WriteLine("Su selección no ha sido guardada");
+                confirma = false;
             }
             else if (opcion == "S")
             {
                 nuevaSolicitud.Add(laSolicitud);
+                confirma = true;
             }
+            return confirma;
         }
 
         public void GrabarSolicitud()
